@@ -1,0 +1,5 @@
+numpy
+opencv-python
+paddlepaddle-gpu==1.8.3.post97
+Pillow
+scipy
